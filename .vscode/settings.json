@@ -1,6 +1,5 @@
 {
     "editor.defaultFormatter": "ms-python.python",
     "editor.formatOnSave": true,
-    "html.format.enable": false,
-    "editor.detectIndentation": false
+    "html.format.enable": false
 }
